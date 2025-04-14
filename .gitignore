@@ -1,0 +1,38 @@
+# Build outputs
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider project files
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# IIS
+.vs/
+*.vspscc
+
+# User-specific files
+*.userprefs
+
+# ASP.NET secrets
+secrets.json
+
+# Production settings
+appsettings.Production.json
+
+# Published builds
+wwwroot/dist/
+publish/
+*.publish.xml
+
+# Logs
+*.log
+
+# Others
+.DS_Store
+Thumbs.db
